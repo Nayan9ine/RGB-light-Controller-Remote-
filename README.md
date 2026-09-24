@@ -13,7 +13,19 @@ The final pcb is improvised a lot and there are additional vias placed whenever 
     <td>
       <img width="464" height="1009" alt="PCB front" src="https://github.com/user-attachments/assets/abca0ab8-1e24-4f7a-8c99-8282a7f3c5a9" />
     </td>
-    <td><img width="511" height="1064" alt="PCB Back" src="https://github.com/user-attachments/assets/24ef136c-0bea-4ccb-b9ea-274d6d7fe53d" />
+    <td>
+      <img width="511" height="1064" alt="PCB Back" src="https://github.com/user-attachments/assets/24ef136c-0bea-4ccb-b9ea-274d6d7fe53d" />
     </td>
   </tr>
 </table>
+<br>
+Kicad Files: <br>
+<img width="1920" height="1080" alt="PCB editor" src="https://github.com/user-attachments/assets/0f89611b-c083-4958-abe4-fc29face5d51" />
+<br>
+<img width="1920" height="1080" alt="Screenshot (1117)" src="https://github.com/user-attachments/assets/465a5fab-592a-44c1-b53c-a5aeb3f5890f" />
+<br>
+<img width="1920" height="1080" alt="Screenshot (1118)" src="https://github.com/user-attachments/assets/c72cd68e-2bd7-4b5b-bbca-4fcfcad7c40c" />
+
+
+
+
